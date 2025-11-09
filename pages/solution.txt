@@ -11,6 +11,6 @@ Byte9: filepaths_are_handy
 Byte10: Althea
 Byte11: Peta
 Byte12: which_command_is_the_best
-Byte: descriptive_git_commit_messages_are_great
+Byte13: descriptive_git_commit_messages_are_great
 Byte: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
 Byte: 
